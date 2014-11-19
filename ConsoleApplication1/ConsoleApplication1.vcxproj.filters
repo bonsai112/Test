@@ -26,5 +26,92 @@
     <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung56.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung7.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung8.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung9.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung10.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung11.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung12.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung13.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung14.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung15.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung17.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung18.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung19.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung20.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung22.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung23.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung25.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung27.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung29.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung30.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung31.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung32.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung35 1.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung35.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung36.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung41.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung42.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung43.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung44.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung53.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

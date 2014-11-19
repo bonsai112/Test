@@ -14,6 +14,7 @@
     <ProjectGuid>{E9D87E44-622F-40A0-AE03-D49EC7BE0D0E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ConsoleApplication1</RootNamespace>
+    <ProjectName>C-Programmierung</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -82,7 +83,36 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung10.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung11.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung12.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung13.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung14.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung15.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung17.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung18.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung19.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung20.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung22.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung23.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung25.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung27.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung29.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung30.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung31.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung32.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung35 1.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung35.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung36.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung41.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung42.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung43.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung44.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung53.cpp" />
     <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\Uebung56.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung7.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung8.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Schule\C-Programmierung\uebung9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
